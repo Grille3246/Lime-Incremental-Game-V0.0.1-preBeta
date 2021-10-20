@@ -1,0 +1,12 @@
+body {
+    background-color: lime;
+    text-align: center;
+}
+button {
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: darkcyan;
+}
+p {
+    font-size: 15px;
+}
